@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ODF6GbXoZZM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dev2\\RiderProjects\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev2\\.nuget\\packages\\2captcha-csharp\\1.4.0\\2captcha-csharp.1.4.0.nupkg.sha512",
+    "C:\\Users\\dev2\\.nuget\\packages\\microsoft.web.webview2\\1.0.3171-prerelease\\microsoft.web.webview2.1.0.3171-prerelease.nupkg.sha512"
+  ],
+  "logs": []
+}
